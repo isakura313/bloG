@@ -1,5 +1,5 @@
 .blog_wrap{
-    border: 2px solid #ff0000;
+    border: 2px solid #581c1c;
     margin-bottom: 2em;
     padding: 7px;
     border-radius: 10px;
@@ -11,7 +11,7 @@ p{
 }
 .promo_img{
     width: 200px;
-    border: 2px solid #ff0000;
+    border: 2px solid #915c5c;
 }
 h5, p{
 word-wrap: break-word;
